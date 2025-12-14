@@ -1,0 +1,12 @@
+[submodule "PartitionTable"]
+	path = PartitionTable
+	url = git@github.com:doshiraki/GBS_PartitionTable.git
+[submodule "stage1.5"]
+	path = stage1.5
+	url = git@github.com:doshiraki/GBS_stage1.5.git
+[submodule "stage1"]
+	path = stage1
+	url = git@github.com:doshiraki/GBS_stage1.git
+[submodule "stage2"]
+	path = stage2
+	url = git@github.com:doshiraki/GBS_stage2.git
